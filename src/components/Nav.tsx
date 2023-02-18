@@ -1,5 +1,5 @@
 import { A } from "solid-start";
-import styles from './nav.module.scss'
+import styles from './Nav.module.scss'
 
 function Nav() {
     return (
