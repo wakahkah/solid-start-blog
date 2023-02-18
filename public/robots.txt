@@ -1,4 +1,3 @@
 User-agent: *
-Disallow: 
-Disallow: /
+Allow: /
 Sitemap: https://solid-start-blog-wakahkah.vercel.app/sitemap.xml
