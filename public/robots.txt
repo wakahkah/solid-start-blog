@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+Disallow: /
+Sitemap: https://solid-start-blog-wakahkah.vercel.app/sitemap.xml
